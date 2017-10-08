@@ -1,0 +1,18 @@
+{
+  "name": "naked-gun-quotes",
+  "version": "0.0.1",
+  "description": "The best quotes from The Naked Gun movies",
+  "keywords": [
+    "Naked Gun",
+    "Frank Drebin",
+    "Quentin Hapsburg",
+    "cli",
+    "random"
+  ],
+  "author": "Earl Hacker <earl4hacker@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/earl-hacker/naked-gun-quotes.git",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {}
+}
