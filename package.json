@@ -12,7 +12,22 @@
   "author": "Earl Hacker <earl4hacker@gmail.com>",
   "license": "MIT",
   "repository": "https://github.com/earl-hacker/naked-gun-quotes.git",
-  "scripts": {},
-  "devDependencies": {},
-  "dependencies": {}
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "jshint . && mocha",
+    "coverage": "istanbul cover _mocha",
+    "coveralls": "npm run coverage -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "istanbul": "^0.4.5",
+    "jshint": "^2.9.5",
+    "mocha": "^4.0.1",
+    "rewire": "^2.5.2"
+  },
+  "dependencies": {
+    "yargs": "^9.0.1"
+  }
 }
