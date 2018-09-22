@@ -3,7 +3,7 @@ Naked Gun Quotes
 
 [![Build Status][travis-image]][travis-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
-[![Dependency Status][gemnasium-image]][gemnasium-url]
+[![Dependency Status][david-image]][david-url]
 [![NPM version][npm-image]][npm-url]
 
 The best quotes from The Naked Gun movies.
@@ -79,5 +79,5 @@ The MIT License (MIT)
 [travis-url]: https://travis-ci.org/earl-hacker/naked-gun-quotes
 [coveralls-image]: https://coveralls.io/repos/github/earl-hacker/naked-gun-quotes/badge.svg
 [coveralls-url]: https://coveralls.io/github/earl-hacker/naked-gun-quotes
-[gemnasium-image]: https://gemnasium.com/badges/github.com/earl-hacker/naked-gun-quotes.svg
-[gemnasium-url]: https://gemnasium.com/github.com/earl-hacker/naked-gun-quotes
+[david-image]: https://david-dm.org/earl-hacker/naked-gun-quotes/status.svg
+[david-url]: https://david-dm.org/earl-hacker/naked-gun-quotes
