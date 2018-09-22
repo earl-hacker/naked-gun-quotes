@@ -14,7 +14,7 @@
   "repository": "https://github.com/earl-hacker/naked-gun-quotes.git",
   "bin": "src/bin/cli.js",
   "engines": {
-    "node": ">=4"
+    "node": ">=6"
   },
   "scripts": {
     "test": "jshint . && mocha",
