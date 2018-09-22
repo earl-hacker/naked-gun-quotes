@@ -17,13 +17,13 @@ Install this globally and you'll have access to the `naked-gun-quotes` command
 anywhere on your system.
 
 ```bash
-$ npm install -g naked-gun-quotes
+npm i naked-gun-quotes -g
 ```
 
 ### Usage
 
 ```console
-$ naked-gun-quotes
+naked-gun-quotes
 Usage: naked-gun-quotes [options]
 
 Options:
@@ -39,7 +39,7 @@ API
 ### Install
 
 ```bash
-$ npm install --save naked-gun-quotes
+npm i naked-gun-quotes --save
 ```
 
 ### Usage
